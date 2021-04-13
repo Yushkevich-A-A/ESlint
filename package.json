@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Yushkevich-A-A/ESlint/issues"
   },
-  "homepage": "https://github.com/Yushkevich-A-A/ESlint#readme"
+  "homepage": "https://github.com/Yushkevich-A-A/ESlint#readme",
+  "devDependencies": {
+    "eslint": "^7.24.0"
+  }
 }
